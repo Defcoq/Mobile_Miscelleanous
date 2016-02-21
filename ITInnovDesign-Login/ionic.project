@@ -1,0 +1,12 @@
+{
+  "name": "ITInnovDesign-Login",
+  "app_id": "d95b5d3e",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ITInnovDesign-FirebaseImage",
+  "app_id": "b9ea7353",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
